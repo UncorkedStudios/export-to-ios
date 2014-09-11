@@ -1,5 +1,5 @@
 /*!
- * Android Assets for Photoshop
+ * iOS Assets for Photoshop
  * =============================
  *
  * Version: 1.0.0
