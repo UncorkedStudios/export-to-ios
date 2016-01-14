@@ -7,4 +7,8 @@ The script works by duplicating the selected layer (or layergroup) to a new docu
 ## Installation
 1. Download the script here
 
-2. Move the .jsx file to your Photoshop scripts folder. If you don't know where that is, you can easily find out by following the instructions <a href="http://www.outbackphoto.net/news/2013/2/17/free-script-where-is-my-photoshop-scripts-folder.html" target="_blank">on this quick post</a>.
+2. Move the ** .jsx ** file to your Photoshop scripts folder:
+
+	- Mac: ** /Applications/Adobe Photoshop.../Presets/Scripts/ **
+	- PC 64bit: ** C:\Program Files\Adobe\Adobe Photoshop... (64 Bit)\Presets\Scripts\ **
+	- PC 32bit: ** C:\Program Files\Adobe\Adobe Photoshop...\Presets\Scripts\ **
