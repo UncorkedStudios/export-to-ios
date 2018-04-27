@@ -28,6 +28,13 @@ init();
 
 // The other functions
 function init() {
+	// fix photoshop cc
+	// save current ruler unit settings, so we can restore it
+    	var ru = app.preferences.rulerUnits;
+    
+	// set ruler units to pixel to ensure scaling works as expected
+	app.preferences.rulerUnits = Units.PIXELS;    
+	
 	if(!isDocumentNew()) {
 		for(var dpi in scaleFactors) {
 			saveFunc(dpi);
